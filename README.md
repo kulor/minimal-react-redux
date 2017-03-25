@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### Get started:
 `npm start`
 
+#### Working example
+https://minimal-react-redux.herokuapp.com/
+
 #### Time travel Demo
 ![Demo](https://rawgit.com/kulor/minimal-react-redux/master/public/time-travel-demo.gif)
 

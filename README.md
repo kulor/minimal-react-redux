@@ -6,4 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### Get started:
 `npm start`
 
+#### Time travel Demo
+![Demo](https://rawgit.com/kulor/minimal-react-redux/master/public/time-travel-demo.gif)
+
 Get the Redux browser extension http://extension.remotedev.io/

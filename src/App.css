@@ -1,0 +1,37 @@
+@import "animation.css";
+
+.App {
+  font-family: sans-serif;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.App .help-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+}
+
+.blob {
+  position: absolute;
+  transform: translateY(-50%) translateX(-50%);
+  vertical-align: middle;
+}
+
+.blob span {
+  color: #fff;
+  display: block;
+  border-radius: 100%;
+  background: rebeccapurple;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  font-size: 12px;
+  text-align: center;
+  cursor: default;
+  opacity: 0.9;
+}
